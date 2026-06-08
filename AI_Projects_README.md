@@ -1,4 +1,4 @@
-# 🤖 AI Engineering Projects — Krish
+# 🤖 AI Engineering Projects
 
 > A collection of applied AI projects built while learning AI engineering from first principles. Each project targets a real use case, uses production-grade patterns.
 ---
