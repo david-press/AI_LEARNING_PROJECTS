@@ -1,0 +1,6 @@
+.env
+__pycache__
+.history
+*.pyc
+qr_codes
+Business_Card_Analysis.jsonl
